@@ -1,4 +1,4 @@
-private bool SOBRE_MIM(string name, int age, bool alive){
+private bool ABOUT_ME(string name, int age, bool alive){
 
   /*It's incredible how just a few lines of code are enough to simplify many tasks that would otherwise 
   take us hours or even days to complete. The reality is that we live in a world where software makes 
